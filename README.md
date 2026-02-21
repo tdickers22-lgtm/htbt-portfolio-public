@@ -31,6 +31,42 @@ Solo builder (product + frontend + backend integration + iOS wrapper + QA iterat
 ## Links
 - App/Web: https://had-to-be-there-18cd7.web.app
 
+## Screenshot Gallery
+### iOS App
+**Main map (signed-in)**
+![iOS main map](assets/screenshots/IMG_1129.png)
+
+**Crosshair location placement flow**
+![iOS crosshair](assets/screenshots/IMG_1124.png)
+
+**Create ping modal**
+![iOS create ping modal](assets/screenshots/IMG_1125.png)
+
+**Share modal**
+![iOS share modal](assets/screenshots/IMG_1126.PNG)
+
+### Sharing and Preview
+**iMessage preview card**
+![iMessage preview](assets/screenshots/IMG_1127.PNG)
+
+**Shared ping opened on web**
+![Shared ping on web](assets/screenshots/IMG_1128.jpeg)
+
+### Web App
+**Desktop web map/feed**
+![Desktop web](assets/screenshots/Screenshot%202026-02-21%20at%203.05.28%E2%80%AFPM.png)
+
+**Firebase backend/data view**
+![Firebase backend](assets/screenshots/Screenshot%202026-02-21%20at%203.15.35%E2%80%AFPM.png)
+
+**Mobile web map/feed**
+![Mobile web](assets/screenshots/IMG_1126.PNG)
+
+## Internship Positioning
+- End-to-end solo build across product, frontend, backend integration, and iOS wrapper.
+- Real user feedback loop with rapid iteration on UX, reliability, and shipping.
+- Production-minded thinking: auth states, sharing flows, edge-case handling, and release prep.
+
 See:
 - `ARCHITECTURE.md`
 - `IMPACT.md`
